@@ -1,6 +1,8 @@
 # How to use
 run "./bin/Release/net8.0-windows/CECOMPuang.exe"
 
+---
+
 # Features
 - Puang has two motions.
   - idle
@@ -14,3 +16,14 @@ run "./bin/Release/net8.0-windows/CECOMPuang.exe"
 - Once it exceeds **150**, it changes from $\color{#FF0000}RED$ to $\color{#F52E7F}PINK$.
 
 - If there's **NO INPUT** for approximately **30 seconds**, the count displayed in the upper-right area of Puang **disappears**, and **a 💤 symbol appears** instead, indicating that Puang is sleeping.
+
+---
+
+# System Tray
+- When you first run CECOMPuang.exe, it exists in the system tray.
+- If you want to constantly check if it is running, you can drag and drop the overflowed icon onto the taskbar.
+
+- **Rename**:  Rename the name. (The initial set name is Anonymous.)
+- **Show name**: Turn on/off the name.
+- **Power mode**: Turn on/off the **'xN'**
+- **Start with Windows**: You can decide whether to turn it on or off when Windows starts.
