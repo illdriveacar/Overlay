@@ -23,6 +23,8 @@ run "./bin/Release/net8.0-windows/CECOMPuang.exe"
 - When you first run CECOMPuang.exe, it exists in the system tray.
 - If you want to constantly check if it is running, you can drag and drop the overflowed icon onto the taskbar.
 
+- **Today Keystroke**: You can watch how many type/click for a day.
+- **Total Keystroke**: You can watch how many type/click during the time it was turned on.
 - **Rename**:  Rename the name. (The initial set name is Anonymous.)
 - **Show name**: Turn on/off the name.
 - **Power mode**: Turn on/off the **'xN'**
